@@ -2,7 +2,7 @@
 
 - 📘 Graduando em **Engenharia de Controle e Automação - UNICAMP**
 - 🏋🏻‍♂️ Fisiculturista amador nas horas vagas
-- 🧐 Interessado em **automação de processos**, **Machine Learning** e técnicas para análise de informações.
+- 🧐 Interessado em **automação de processos**, **Machine Learning** e técnicas para análise de dados.
 - Projetos pessoais de [Machine Learning](https://github.com/ViniNathan/MachineLearningProjects)
 - 🤖 Atualmente, estou focado em desenvolver um projeto pessoal, o [TibiaMarket](https://github.com/ViniNathan/TibiaMarket), envolvendo a automação de tarefas no sistema de mercado do Tibia. O projeto envolve a análise de valores no marketing do jogo, que funciona de modo similar ao mercado de ações da vida real, para que compras e vendas sejam realizadas automaticamente e de maneira a maximizar os lucros do usuário. Até então, este projeto utiliza análise de imagens, threading, pré-processamento de dados, orientação a objetos e uma IA já treinada para conversões de dados. Embora ainda esteja nas fases iniciais, estou bastante otimista com os resultados que poderei alcançar.
 - #### Principais linguagens
