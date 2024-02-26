@@ -19,7 +19,9 @@
 
 
 - Projeto de **Automação**:
+
   [TibiaMarket](https://github.com/ViniNathan/TibiaMarket):
+
   Realiza automação de tarefas no sistema de mercado do Tibia. O projeto envolve a análise de valores no marketing, que funciona de modo similar ao mercado de ações da vida 
   real, para que compras e vendas sejam realizadas automaticamente e de maneira a maximizar os lucros do usuário. Esse projeto utiliza análise de imagens (com bibliotecas como 
   OpenCV, PyAutoGUI), threading, pré-processamento de dados, orientação a objetos e uma IA (PyTesseract) treinada para conversões de dados.
