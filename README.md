@@ -5,14 +5,18 @@
 - 🧐 Interessado em **Front-End**, **Automação de Processos** e **Machine Learning**.
 
 - Projetos **Front-End** em destaque:
+
   [App de Filmes/Series](https://github.com/ViniNathan/movies-react)
+
   Aplicação web de database de filmes e séries;
   Faz uso da API TheMovieDB com tecnologias de front-end de primeira linha, como React, Redux, React Router e SCSS.
 
   [Clone do Youtube](https://github.com/ViniNathan/youtube-clone-react)
+
   Aplicação web "clone" do Youtube com UI bem similar ao site original;
   Faz uso de API para obter dados de vídeos e shorts para serem exibidos no site;
   Tecnologias usadas: ReactJS, HTML, CSS, RapidAPI, React Router.
+
 
   - Projeto de **Automação**:
   [TibiaMarket](https://github.com/ViniNathan/TibiaMarket):
