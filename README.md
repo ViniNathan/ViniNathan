@@ -1,8 +1,8 @@
 ### Opa, sou o Nathan 👽
 
 - 📘 Graduando em **Engenharia de Controle e Automação - UNICAMP**
-- 🏋🏻‍♂️ Fisiculturista amador nas horas vagas
-- 🧐 Interessado em **Front-End**, **Automação de Processos** e **Machine Learning**.
+- 🧐 Interessado em **Front-End**, **Automação de Processos** e **Machine Learning**
+- - 🏋🏻‍♂️ Fisiculturista amador nas horas vagas
 
 - Projetos **Front-End** em destaque:
 
