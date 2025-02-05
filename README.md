@@ -2,7 +2,6 @@
 
 - 📘 Graduando em **Engenharia de Controle e Automação - UNICAMP**
 - 🧐 Interessado em **Front-End**, **Automação de Processos** e **Machine Learning**
-- 🏋🏻‍♂️ Fisiculturista amador nas horas vagas
 
 - Projetos **Front-End** em destaque:
 
