@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">- 🧐 Fullstack Development, MERN stack<br>- 📘 Control and automation engineering - UNICAMP<br><br>Specialist in building responsive and animated web apps, with almost 2 years of experience developing<br>high-performance and scalable applications using ReactJs, NextJs, NodeJs, Express, Fastify, Prismas, MongoDB, PostgreeSQL.</p>
+<p align="left">- 🧐 Fullstack Development, MERN stack<br>- 📘 Control and automation engineering - UNICAMP<br><br>Specialist in building responsive and animated web apps, with almost 2 years of experience developing<br>high-performance and scalable applications using ReactJs, NextJs, NodeJs, Express, Fastify, Prisma, MongoDB, PostgreeSQL.</p>
 <p align="left">Skilled in creating interactive and intuitive interfaces, seamlessly integrating frontend and backend to deliver immersive user experiences.</p>
 
 ###
