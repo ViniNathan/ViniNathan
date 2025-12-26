@@ -14,7 +14,7 @@
 
 ## 👨‍💻 About Me
 
-Fullstack Developer with ~2 years of professional experience building **production-grade web applications** in fintechs, startups and consulting environments.
+Fullstack Developer with 2+ years of professional experience building **production-grade web applications** in fintechs, startups and consulting environments.
 
 I specialize in **backend architecture**, **modern frontend systems** and **AI-powered products**, focusing on scalability, performance and real business impact.  
 Currently pursuing a degree in **Control and Automation Engineering at UNICAMP**.
