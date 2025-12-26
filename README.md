@@ -29,34 +29,14 @@ Currently studying **Control and Automation Engineering at UNICAMP**.
 ---
 
 ## 🧠 What I Work With
-
-### ⚙️ Backend
-- Node.js, TypeScript
-- NestJS, Fastify, Express
-- REST & GraphQL APIs
-- Prisma ORM
-- PostgreSQL, MongoDB
-- Authentication, authorization, background jobs
-
-### 🎨 Frontend
-- React, Next.js
-- TailwindCSS
-- Zustand, Zod
-- Component-driven UI
-- Performance-oriented rendering
-
-### 🤖 AI & Automation
-- LangChain, LangGraph
-- RAG pipelines (Pinecone)
-- AI agents for DX & chatbots
-- CLI-first tools
-
-### ☁️ DevOps & Cloud
-- Docker & containerization
-- AWS, GCP, Azure
-- CI/CD pipelines
-- GitHub Actions
-- Monitoring & observability
+⚙️ Backend
+<div align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="36" alt="Node.js" /> <img width="8"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="36" alt="TypeScript" /> <img width="8"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="36" alt="NestJS" /> <img width="8"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="36" alt="Express" /> <img width="8"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="36" alt="PostgreSQL" /> <img width="8"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="36" alt="MongoDB" /> <img width="8"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" height="36" alt="Prisma" /> </div>
+🎨 Frontend
+<div align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="36" alt="React" /> <img width="8"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="36" alt="Next.js" /> <img width="8"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="36" alt="Tailwind CSS" /> <img width="8"/> <img src="https://raw.githubusercontent.com/pmndrs/zustand/main/examples/demo/public/logo192.png" height="36" alt="Zustand" /> </div>
+🤖 AI & Automation
+<div align="left"> <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" height="36" alt="LangChain" /> <img width="8"/> <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" height="36" alt="LangGraph" /> <img width="8"/> <img src="https://avatars.githubusercontent.com/u/107642734?s=200&v=4" height="36" alt="Pinecone" /> </div>
+☁️ DevOps & Cloud
+<div align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="36" alt="Docker" /> <img width="8"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="36" alt="AWS" /> <img width="8"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="36" alt="GCP" /> <img width="8"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="36" alt="Azure" /> <img width="8"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="36" alt="GitHub" /> </div>
 
 ---
 
