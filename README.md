@@ -1,52 +1,97 @@
-<h1 align="center">Vinícius Nathan | Fullstack Developer</h1>
-
-###
+<h1 align="center">Vinícius Nathan</h1>
+<h3 align="center">Fullstack Developer | AI</h3>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/vininathan/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/ViniNathan" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
 
-###
+---
 
-<h3 align="left">👩‍💻  About Me</h3>
+## 👨‍💻 About Me
 
-###
+Fullstack Developer with **2+ years of professional experience** working in **fintechs, startups and consulting environments**, delivering **production-grade systems** from architecture to deployment.
 
-<p align="left">- 🧐 Fullstack Development<br>- 📘 Control and automation engineering - UNICAMP<br><br>Specialist in building responsive and animated web apps, with almost 2 years of experience developing<br>high-performance and scalable applications using ReactJs, NextJs, NodeJs, Express, Fastify, Prisma, MongoDB, PostgreeSQL.</p>
-<p align="left">Skilled in creating interactive and intuitive interfaces, seamlessly integrating frontend and backend to deliver immersive user experiences.</p>
+I specialize in building **scalable backend systems**, **modern web applications** and **AI-powered products**, always focusing on **performance, maintainability and real business impact**.
 
-###
+🎯 Strong background in:
+- Backend architecture & APIs
+- Frontend systems with complex state & UX
+- AI agents, RAG pipelines and automation
+- End-to-end ownership (design → deploy → monitor)
 
-<h3 align="left">🛠 Language and tools</h3>
+Currently studying **Control and Automation Engineering at UNICAMP**.
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
-</div>
+## 🧠 What I Work With
 
-###
+### ⚙️ Backend
+- Node.js, TypeScript
+- NestJS, Fastify, Express
+- REST & GraphQL APIs
+- Prisma ORM
+- PostgreSQL, MongoDB
+- Authentication, authorization, background jobs
+
+### 🎨 Frontend
+- React, Next.js
+- TailwindCSS
+- Zustand, Zod
+- Component-driven UI
+- Performance-oriented rendering
+
+### 🤖 AI & Automation
+- LangChain, LangGraph
+- RAG pipelines (Pinecone)
+- AI agents for DX & chatbots
+- CLI-first tools
+
+### ☁️ DevOps & Cloud
+- Docker & containerization
+- AWS, GCP, Azure
+- CI/CD pipelines
+- GitHub Actions
+- Monitoring & observability
+
+---
+
+## 🚀 Featured Projects
+
+### 🧠 **DxGen — AI Documentation Agent (CLI-First)**
+🔗 https://hb-03-2025-dxgen-frontend.vercel.app/
+
+AI-powered tool that automatically generates **context-aware documentation** using **RAG** and integrates directly into developer workflows.
+
+**Highlights**
+- Generates README, API docs and diagrams
+- CLI-first developer experience
+- Automatic documentation in Pull Requests
+- Built for real-world DX problems
+
+**Tech Stack**
+TypeScript, LangChain, LangGraph, Pinecone, Supabase, Next.js, React, Turborepo, Probot, Vitest
+
+---
+
+## 🏗️ Professional Experience Snapshot
+
+- **Fintech (Payments):** Modernized legacy systems, rebuilt backend with NestJS, improved performance, scalability and observability.
+- **Startup (A/B Testing):** Designed backend architecture, built full dashboard and in-page experiments, enabled MVP launch.
+- **Consulting (Enterprise):** Built AI chatbot with RAG pipeline, increased adoption by **35%**, integrated with Slack & WhatsApp.
+
+---
+
+## 📚 Education
+**B.Sc. in Control and Automation Engineering**  
+UNICAMP — 2021 → 2026
+
+---
+
+## 📫 Let’s Connect
+- LinkedIn: https://www.linkedin.com/in/vininathan/
+- GitHub: https://github.com/ViniNathan
