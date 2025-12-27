@@ -83,4 +83,3 @@ State University of Campinas (UNICAMP) — 2021 → 2026
 
 ## 📫 Contact
 - LinkedIn: https://www.linkedin.com/in/vininathan/
-- GitHub: https://github.com/ViniNathan
