@@ -14,10 +14,15 @@
 
 ## 👨‍💻 About Me
 
-Fullstack Developer with 3+ years of professional experience building **production-grade web applications** in fintechs, startups and consulting environments.
-
-I specialize in **backend architecture**, **modern frontend systems** and **AI-powered products**, focusing on scalability, performance and real business impact.  
-Currently pursuing a degree in **Control and Automation Engineering at UNICAMP**.
+Full-Stack Engineer with 3+ years shipping production products for fintechs, experimentation startups, and telecom companies.
+Worked on critical financial systems processing thousands of transactions, leading modernizations that reduced incidents by
+~50%, infrastructure costs by ~30%, and API response time by ~35%. Operate with full ownership cycle: from planning
+through deployment and production impact monitoring, with a focus on independent microservices, high observability, and
+scalability.
+Specialized in Node.js (NestJS, Fastify, Express), TypeScript, and React / Next.js, designing REST and GraphQL APIs for
+high-demand systems. Experienced in integrating AI into products, including RAG pipelines, agents with
+LangChain/LangGraph, embeddings, and LLMs (OpenAI, Claude, Gemini). Solid background in PostgreSQL, MongoDB,
+Prisma ORM, Docker, and cloud (AWS, GCP)..
 
 ---
 
